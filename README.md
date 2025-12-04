@@ -9,3 +9,5 @@ MADAM directly targets these challenges, offering a more reliable optimization t
 We evaluated MADAM on four standard benchmark optimization problems, and the results show consistent and successful performance improvements over baseline methods. 
 
 In this repo  , you can find codes regarding the comparison plots between optimizers on benchmark problems . 
+
+[Link to Research Paper]  (https://experts.illinois.edu/en/publications/on-the-variance-of-the-adaptive-learning-rate-and-beyond-2/#:~:text=Abstract,of%20the%20adaptive%20learning%20rate)
